@@ -1,0 +1,15 @@
+# Fișiere generate de MATLAB / Simulink
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mexa64
+*.mexw64
+*.mexmaci64
+*.slx.r20*
+*.mdl.r20*
+codegen/
+
+# Fișiere locale
+CLAUDE.md
+.claude/
