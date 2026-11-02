@@ -30,7 +30,6 @@ Coordonator: Prof. Dr.-Ing. Claudiu Pozna · Autor: Ștefan Horia-Eusebiu (4LF83
 | `contrPUMA.slx` | modelul Simulink al sistemului de reglare (se regenerează la fiecare rulare) |
 | `Poz_dorita.mat` | traiectoria dorită a cuplelor, citită de blocul From File (generată) |
 | `Brat3Cuple.mlx` | exemplu de referință – alt braț cu 3 cuple (calcul simbolic Lagrange / Newton-Euler) |
-| `Poze utile/` | poze de la curs cu modelul de referință |
 
 ## Cerințe
 
